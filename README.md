@@ -1,2 +1,1 @@
-# template-scss
 # sass-template
